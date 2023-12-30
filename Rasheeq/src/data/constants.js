@@ -6,11 +6,11 @@ export const Bio = {
     "Coder",
   ],
   description:
-    "An enthusiastic MERN stack developer with a knack for solving intricate problems using C++. I specialize in developing robust web applications, leveraging MongoDB, Express.js, React.js, and Node.js. Beyond coding, I thrive as a dynamic public speaker, sharing insights and experiences at tech events. With a passion for algorithmic challenges and data structures, I bring creativity to code. My commitment to continuous learning ensures that I stay ahead in the ever-evolving tech landscape.",
+    "An enthusiastic MERN stack developer with a knack for solving intricate problems using C++. I specialize in developing robust and dynamic web applications. Beyond coding, I seamlessly transition to the stage as a public speaker, where effective communication is my forte, and I thoroughly enjoy connecting with diverse audience.",
   github: "https://github.com/rasheeq123",
   resume:
     "https://drive.google.com/file/d/1I-Rac9iAjfpddEX5RGbcABXv-ZRw6LGn/view?usp=sharing",
-  linkedin: "https://www.linkedin.com/in/omkarsharmaa/",
+  linkedin: "https://www.linkedin.com/in/rasheeq-zehra-mern-developer/",
   twitter: "https://twitter.com/omiipandit",
   insta: "https://www.instagram.com/rizvi_rasheeq_7985/",
   git: "https://github.com/rasheeq123/",
