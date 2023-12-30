@@ -6,7 +6,7 @@ export const Bio = {
     "Coder",
   ],
   description:
-    "Driven by a passion for learning and a commitment to excellence, I thrive in environments that present new challenges for growth. My adaptable skills and unwavering dedication, drive me to deliver high-quality results. I am confident that my adaptable skillset and growth mindset will enable me to achieve great things.",
+    "An enthusiastic MERN stack developer with a knack for solving intricate problems using C++. I specialize in developing robust web applications, leveraging MongoDB, Express.js, React.js, and Node.js. Beyond coding, I thrive as a dynamic public speaker, sharing insights and experiences at tech events. With a passion for algorithmic challenges and data structures, I bring creativity to code. My commitment to continuous learning ensures that I stay ahead in the ever-evolving tech landscape.",
   github: "https://github.com/rasheeq123",
   resume:
     "https://drive.google.com/file/d/1I-Rac9iAjfpddEX5RGbcABXv-ZRw6LGn/view?usp=sharing",
