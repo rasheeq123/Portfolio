@@ -5,6 +5,7 @@ export const Bio = {
     // "Graphic Designer",
     "Coder",
   ],
+  
   description:
     "An enthusiastic MERN stack developer with a knack for solving intricate problems using C++. I specialize in developing robust and dynamic web applications. Beyond coding, I seamlessly transition to the stage as a public speaker, where effective communication is my forte, and I thoroughly enjoy connecting with diverse audience.",
   github: "https://github.com/rasheeq123",
